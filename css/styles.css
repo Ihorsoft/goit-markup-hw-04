@@ -382,7 +382,7 @@ border: 1px solid #111111;
 transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
  }
   
-.portfolio-item:hover .overlay {
+.portfolio-item:hover .overlay-txt {
     transform: translateY(0%);
    /* box-shadow: 0 4px 4px 0 rgba(00, 00, 00, 0.25); */
 }
@@ -397,7 +397,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     overflow: hidden;
 }
 
- .overlay {
+ .overlay-txt {
     position: absolute;
     top: 0;
    /* left: 0;*/
