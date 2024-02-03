@@ -452,10 +452,11 @@ border: 1px solid #111111;
 
 .footer-parent {
     display: flex; 
+    align-items: baseline;
 }
 
 .footer-main {
-    margin-right: 100px;
+    margin-right: 120px;
 
 }
 
@@ -491,11 +492,11 @@ border: 1px solid #111111;
 
 .social-title {
    /* display: inline-block; */
-        color: #f4f4fd
+        color: #FFFFFF;
         font-size: 16px;
-        font-weight: 400;
-        line-height: 1.17;
-        letter-spacing: -0.02em;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
       /*  text-transform: uppercase;*/
         margin-bottom: 16px;
 }
