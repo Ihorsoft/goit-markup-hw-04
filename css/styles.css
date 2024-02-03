@@ -371,7 +371,7 @@ border: 1px solid #111111;
         gap: 48px 24px;
         flex-basis: calc((100% - 48px) / 3);
         flex-wrap: wrap;
-        transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+     /*   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);*/
 }
 
 .portfolio-item {
@@ -379,6 +379,7 @@ border: 1px solid #111111;
  /* border: 1px solid #E7E9FC; */
  width: calc((100% - 48px) / 3);   /* from mentor*/
  /*box-shadow: 0 4px 4px 0 rgba(00, 00, 00, 0.25);*/
+transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
  }
   
 .portfolio-item:hover .overlay {
