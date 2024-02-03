@@ -280,7 +280,8 @@ border: 1px solid #111111;
     border-radius: 0px 0px 4px 4px;
     text-align: center;
     width: calc((100% - 72px) / 4);
-    box-shadow: 0 1px 6px 0 rgba(2E 2F 42 0.08), 0 1px 1px 0 rgba(2E 2F 42 0.16), 0 2px 1px 0 rgba(2E 2F 42 0.08);
+    box-shadow: 0 2px 1px 0 rgba(2E, 2F, 42, 0.08),
+    0 1px 1px 0 rgba(2E, 2F, 42, 0.16), 0 1px 6px 0 rgba(2E, 2F, 42, 0.08);
 }
 
 .team-img {}
@@ -349,7 +350,7 @@ border: 1px solid #111111;
    /* padding-bottom: 32px; from mentor */
  /* border: 1px solid #E7E9FC; */
  width: calc((100% - 48px) / 3);   /* from mentor*/
- box-shadow: 0 4px 4px 0 rgba(00 00 00 0.25);
+ box-shadow: 0 4px 4px 0 rgba(00, 00, 00, 0.25);
  }
   
 .portfolio-item:hover .overlay {
