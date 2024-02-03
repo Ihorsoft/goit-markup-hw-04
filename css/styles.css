@@ -143,6 +143,7 @@ img {
 
 /*================== hero ==============*/
 .hero {
+    margin: 0 auto;
     max-width: 1440px;
    background-color: #2E2F42;
     padding: 188px 0;
@@ -240,7 +241,7 @@ margin-bottom: 8px;
 /* border: 1px solid #111111;*/
     border-radius: 4px;
 }
-}
+
 
 .service-subtitle {
         color: #2E2F42;
