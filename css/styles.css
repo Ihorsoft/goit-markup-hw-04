@@ -229,13 +229,15 @@ position: absolute;
     background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
+    border: 1px solid #111111;
+   
 }
 
 .service-icon {
     padding: 0 0;
 margin-bottom: 8px; 
 /* padding: 0;*/
-border: 1px solid #111111;
+/* border: 1px solid #111111;*/
     border-radius: 4px;
 }
 }
