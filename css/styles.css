@@ -530,11 +530,12 @@ height: 40px;
         transition-delay: 0;*/
 }
 .icon-footer {
- fill: transparent;
+/* fill: transparent;*/
+    fill: #f4f4fd;
  /* stroke: #111111; */
 }
 
-.social-item:hover {
+.social-item:hover, .social-item:focus {
     background-color: #31D0AA ;
 }
 /*===============================*/
