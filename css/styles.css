@@ -326,7 +326,7 @@ border: 1px solid #111111;
 
 .social-list {
     display: flex;
-    gap: 24px;  
+    gap: 24px; 
 }
 
 .social-team {
@@ -512,7 +512,7 @@ border: 1px solid #111111;
     display: flex;
     max-width: 264px;
    justify-content: center;
-    gap: 16px;
+  /*  gap: 16px; */
 
 }
 
